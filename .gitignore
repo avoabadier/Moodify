@@ -1,0 +1,8 @@
+node_modules/
+.env
+dist/
+
+# Only the root README.md is tracked; other markdown docs (spec, guide,
+# reports, and any per-package boilerplate README) stay local-only.
+*.md
+!/README.md
